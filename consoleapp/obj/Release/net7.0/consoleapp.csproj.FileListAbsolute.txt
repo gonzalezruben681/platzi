@@ -1,0 +1,14 @@
+C:\Users\gonza\OneDrive\Documentos\proyectos github\platzi\consoleapp\bin\Release\net7.0\consoleapp.exe
+C:\Users\gonza\OneDrive\Documentos\proyectos github\platzi\consoleapp\bin\Release\net7.0\consoleapp.deps.json
+C:\Users\gonza\OneDrive\Documentos\proyectos github\platzi\consoleapp\bin\Release\net7.0\consoleapp.runtimeconfig.json
+C:\Users\gonza\OneDrive\Documentos\proyectos github\platzi\consoleapp\bin\Release\net7.0\consoleapp.dll
+C:\Users\gonza\OneDrive\Documentos\proyectos github\platzi\consoleapp\bin\Release\net7.0\consoleapp.pdb
+C:\Users\gonza\OneDrive\Documentos\proyectos github\platzi\consoleapp\obj\Release\net7.0\consoleapp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\gonza\OneDrive\Documentos\proyectos github\platzi\consoleapp\obj\Release\net7.0\consoleapp.AssemblyInfoInputs.cache
+C:\Users\gonza\OneDrive\Documentos\proyectos github\platzi\consoleapp\obj\Release\net7.0\consoleapp.AssemblyInfo.cs
+C:\Users\gonza\OneDrive\Documentos\proyectos github\platzi\consoleapp\obj\Release\net7.0\consoleapp.csproj.CoreCompileInputs.cache
+C:\Users\gonza\OneDrive\Documentos\proyectos github\platzi\consoleapp\obj\Release\net7.0\consoleapp.dll
+C:\Users\gonza\OneDrive\Documentos\proyectos github\platzi\consoleapp\obj\Release\net7.0\refint\consoleapp.dll
+C:\Users\gonza\OneDrive\Documentos\proyectos github\platzi\consoleapp\obj\Release\net7.0\consoleapp.pdb
+C:\Users\gonza\OneDrive\Documentos\proyectos github\platzi\consoleapp\obj\Release\net7.0\consoleapp.genruntimeconfig.cache
+C:\Users\gonza\OneDrive\Documentos\proyectos github\platzi\consoleapp\obj\Release\net7.0\ref\consoleapp.dll

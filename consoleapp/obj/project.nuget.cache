@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "d56BQjGClNKC3KHjI6WNCPXaJg3+Jj3T+BTMcgmqg/pe+1nSnq3I0BD3R5HVXla9DHwM4yMaKIo2vEOGMMFFAw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\gonza\\OneDrive\\Documentos\\proyectos github\\platzi\\consoleapp\\consoleapp.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\gonza\\.nuget\\packages\\humanizer.core\\2.14.1\\humanizer.core.2.14.1.nupkg.sha512"
+  ],
+  "logs": []
+}
